@@ -1,7 +1,7 @@
 {
-  "name": "trip-teazer",
-  "version": "1.0.0",
-  "description": "A trip planning app",
+  "name": "tripdeez",
+  "version": "1.6.9",
+  "description": "A trip planning app better than deez other guy's",
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack -d --watch",
