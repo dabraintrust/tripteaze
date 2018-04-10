@@ -227,7 +227,7 @@ class Home extends React.Component {
           {/************************** HEADER **************************/}
           <div style={styles.header}>
             <Link to="/" style={styles.tripTeazeText}>
-              Tripsiesium
+              Tripsies
             </Link>
           </div>
 
