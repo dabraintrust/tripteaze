@@ -99,7 +99,7 @@ class UserPage extends React.Component {
             {/************************** HEADER **************************/}
             <div style={theme.styles.header}>
               <Link to="/" style={{textDecoration: 'none', color: deepOrange900}}>
-                TripTeaze
+                Shahzeb&apos;s Travel Emporium
               </Link>
             </div>
 
@@ -134,7 +134,7 @@ class UserPage extends React.Component {
             {/************************** HEADER **************************/}
             <div style={theme.styles.header}>
               <Link to="/" style={{textDecoration: 'none', color: deepOrange900}}>
-                TripTeaze
+                Shahzeb&apos;s Travel Emporium
               </Link>
             </div>
 
@@ -198,7 +198,7 @@ class UserPage extends React.Component {
             {/************************** HEADER **************************/}
             <div style={theme.styles.header}>
               <Link to="/" style={{ textDecoration: 'none', color: deepOrange900 }}>
-                TripTeaze
+                Shahzeb&apos;s Travel Emporium
               </Link>
             </div>
 
