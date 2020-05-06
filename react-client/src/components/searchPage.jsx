@@ -630,7 +630,7 @@ class SearchPage extends React.Component {
           {/******************************* HEADER *******************************/}
           <div style={theme.styles.header}>
             <Link to="/" style={{textDecoration: 'none', color: deepOrange900}}>
-              Tripsies
+              Shahzeb&apos;s Travel Emporium
             </Link>
           </div>
 
